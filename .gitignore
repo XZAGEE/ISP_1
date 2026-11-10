@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Dataset
+dataset/
+
+# Large test audio file
+file_example_WAV_10MG.wav
+
+# Local results and temporary files
+__pycache__/
+*.pyc
